@@ -1,2 +1,35 @@
 
 /* Your CSS Code here. */
+.title{
+    color: white;
+    font-size: large;
+    background-color:gray;
+    text-align: center;
+    border-radius: 30px;
+}
+.link{
+    color: blue;
+    font-size: large;
+    text-align: left;
+}
+*{
+    font-size: 16px;
+    background-color: rgb(224, 224, 214);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding : 5px;
+    margin: 5px;
+}
+.button{
+    background-color: gray;
+    border-radius: 30px;
+    border: 2px;
+}
+button:hover{
+    background-color: yellow;
+    border-radius: 30px;
+    border: 2px;
+}
+.text{
+    color:brown;
+    font-style: normal;
+}
